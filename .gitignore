@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+**/bin/
+**/obj/
+
+# User settings
+*.user
+*.suo
+
+# Database lokal
+*.db
+*.db-shm
+*.db-wal
+
+# Build output
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.log
